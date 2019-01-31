@@ -1,0 +1,5 @@
+cat|Kitty
+dog|Puppy
+lion|King of animal
+fish|Live in water
+bird|Can fly

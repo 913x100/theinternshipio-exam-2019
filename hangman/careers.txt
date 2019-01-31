@@ -1,0 +1,5 @@
+programming|Who can code
+teacher|teach students
+soldier|Priministry of Thailand
+doctor|heal people
+musician|play music
