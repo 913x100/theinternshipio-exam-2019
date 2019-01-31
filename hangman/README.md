@@ -6,7 +6,7 @@ Run `python hangman`.
 - Each file contain word and hint separate by |
 
 ## Contact
-Name: Kittinut Iamsamarng
-Email: kittinut.iam@gmail.com
-Tel: +66966561124
+- Name: Kittinut Iamsamarng
+- Email: kittinut.iam@gmail.com
+- Tel: +66966561124
 
