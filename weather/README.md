@@ -10,7 +10,7 @@
 
 
 ## Contact
-Name: Kittinut Iamsamarng
-Email: kittinut.iam@gmail.com
-Tel: +66966561124
+- Name: Kittinut Iamsamarng
+- Email: kittinut.iam@gmail.com
+- Tel: +66966561124
 
